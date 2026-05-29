@@ -53,3 +53,4 @@ El sistema funciona 100% en local.
 No s'envien àudios ni transcripcions a serveis externs.
 
 Les dades identificatives es poden exportar en un fitxer separat i marcat com a sensible.
+
