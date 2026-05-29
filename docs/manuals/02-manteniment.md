@@ -1,4 +1,4 @@
-# Manual de manteniment — Call-AI
+# Manual de manteniment:  Call-AI
 
 ## 1. Objectiu
 
