@@ -1,4 +1,4 @@
-# Manual d'usuari — Call-AI
+# Manual d'usuari:  Call-AI
 
 ## 1. Què és Call-AI?
 
