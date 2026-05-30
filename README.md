@@ -1,4 +1,4 @@
-# Call-AI Local
+# Call-AI Local 
 
 Sistema local per importar, transcriure, analitzar i classificar trucades gravades.
 
